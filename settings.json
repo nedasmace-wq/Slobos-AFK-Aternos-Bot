@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tropcial.aternos.me:41844",
+    "ip": "Tropcial.aternos.me",
     "port": 41844,
     "version": "1.21.11",
     "try-creative": false
