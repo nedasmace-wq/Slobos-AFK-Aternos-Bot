@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tropcial.aternos.me",
+    "ip": "Tropcial.aternos.me:41844",
     "port": 41844,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
